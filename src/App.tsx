@@ -72,7 +72,6 @@ function App() {
     });
   }
 
-
   return (
         <div className="container d-flex">
           <div className="container mt-2">
